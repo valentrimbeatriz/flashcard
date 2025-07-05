@@ -1,11 +1,11 @@
 :root {
-    --text-color: #DBE4EF;
+    --text-color: #000000;
     --card-front-color: rgb(83, 12, 12);
     --card-back-color: rgb(182, 82, 82);
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('/Apresentação\ Quiz\ de\ Língua\ Portuguesa\ Ilustração\ Azul\ Vermelho\ e\ Rosa.jpg');
     font-family: Bai Jamjuree, sans-serif;
 }
 
